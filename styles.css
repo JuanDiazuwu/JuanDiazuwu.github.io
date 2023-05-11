@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(182, 182, 182);
+    color: white;
+}
+
+.box {
+    background-color: black;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 50px auto;
+    width: 1000px;
+    height: 2450px;
+}
+
+#headeruwu {
+    text-align: center;
+    font-size: 30px;
+}
+
+#imguwu {
+    text-align: center;
+}
+
+#title-uwu {
+    font-size: 25px;
+    text-align: center;
+}
+
+.points {
+    font-size: 30px;
+}
+
+.text_info {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.ac {
+    padding-left: 50px;
+}
+
+.s_t {
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
